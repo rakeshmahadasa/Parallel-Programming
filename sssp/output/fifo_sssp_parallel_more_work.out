@@ -1,0 +1,160 @@
+Vertex Count : 1000000 Edge Count : 4999999 Thread Count : 1
+4723265
+4736698
+4696582
+Vertex Count : 1000000 Edge Count : 4999999 Thread Count : 2
+3043027
+3066865
+3031237
+Vertex Count : 1000000 Edge Count : 4999999 Thread Count : 3
+2690763
+2663637
+2704465
+Vertex Count : 1000000 Edge Count : 4999999 Thread Count : 4
+2662125
+2654318
+2664956
+Vertex Count : 1000000 Edge Count : 4999999 Thread Count : 5
+2695385
+2692445
+2628307
+Vertex Count : 1000000 Edge Count : 4999999 Thread Count : 6
+2740638
+2732248
+2696533
+Vertex Count : 1000000 Edge Count : 4999999 Thread Count : 7
+2791006
+2832606
+2867300
+Vertex Count : 1000000 Edge Count : 4999999 Thread Count : 8
+2916338
+2961143
+2918158
+Vertex Count : 1000000 Edge Count : 4999999 Thread Count : 9
+2941656
+2948688
+2995521
+Vertex Count : 1000000 Edge Count : 4999999 Thread Count : 10
+2964381
+2995101
+2937575
+Vertex Count : 1500000 Edge Count : 7499999 Thread Count : 1
+8005703
+7986285
+8076738
+Vertex Count : 1500000 Edge Count : 7499999 Thread Count : 2
+5075041
+5056716
+5031747
+Vertex Count : 1500000 Edge Count : 7499999 Thread Count : 3
+4292838
+4278995
+4244571
+Vertex Count : 1500000 Edge Count : 7499999 Thread Count : 4
+4065822
+4015195
+4026481
+Vertex Count : 1500000 Edge Count : 7499999 Thread Count : 5
+4020975
+3989198
+4085285
+Vertex Count : 1500000 Edge Count : 7499999 Thread Count : 6
+4047821
+3963948
+4076540
+Vertex Count : 1500000 Edge Count : 7499999 Thread Count : 7
+4096534
+4152636
+4152558
+Vertex Count : 1500000 Edge Count : 7499999 Thread Count : 8
+4109789
+4298931
+4139148
+Vertex Count : 1500000 Edge Count : 7499999 Thread Count : 9
+4300100
+4330198
+4286636
+Vertex Count : 1500000 Edge Count : 7499999 Thread Count : 10
+4344439
+4313417
+4308422
+Vertex Count : 2000000 Edge Count : 9999999 Thread Count : 1
+10544004
+10564069
+10462699
+Vertex Count : 2000000 Edge Count : 9999999 Thread Count : 2
+6575263
+6580273
+6529010
+Vertex Count : 2000000 Edge Count : 9999999 Thread Count : 3
+5600950
+5508307
+5520020
+Vertex Count : 2000000 Edge Count : 9999999 Thread Count : 4
+5271876
+5313498
+5294660
+Vertex Count : 2000000 Edge Count : 9999999 Thread Count : 5
+5365310
+5302981
+5305455
+Vertex Count : 2000000 Edge Count : 9999999 Thread Count : 6
+5481286
+5446683
+5451370
+Vertex Count : 2000000 Edge Count : 9999999 Thread Count : 7
+5640353
+5572709
+5585502
+Vertex Count : 2000000 Edge Count : 9999999 Thread Count : 8
+5592607
+5622931
+5688569
+Vertex Count : 2000000 Edge Count : 9999999 Thread Count : 9
+5817475
+5791109
+5837086
+Vertex Count : 2000000 Edge Count : 9999999 Thread Count : 10
+5911664
+5823222
+5882409
+Vertex Count : 2100000 Edge Count : 10499999 Thread Count : 1
+11271238
+11278812
+11301286
+Vertex Count : 2100000 Edge Count : 10499999 Thread Count : 2
+6960644
+7132541
+6948909
+Vertex Count : 2100000 Edge Count : 10499999 Thread Count : 3
+5812309
+5762124
+5807836
+Vertex Count : 2100000 Edge Count : 10499999 Thread Count : 4
+5446695
+5422461
+5431580
+Vertex Count : 2100000 Edge Count : 10499999 Thread Count : 5
+5374528
+5292767
+5387358
+Vertex Count : 2100000 Edge Count : 10499999 Thread Count : 6
+5413153
+5329851
+5363582
+Vertex Count : 2100000 Edge Count : 10499999 Thread Count : 7
+5718664
+5642786
+5412020
+Vertex Count : 2100000 Edge Count : 10499999 Thread Count : 8
+5471677
+5657001
+5454921
+Vertex Count : 2100000 Edge Count : 10499999 Thread Count : 9
+5638515
+5692789
+5675160
+Vertex Count : 2100000 Edge Count : 10499999 Thread Count : 10
+5751376
+5755610
+5690618
